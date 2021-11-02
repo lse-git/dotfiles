@@ -1,0 +1,19 @@
+[Added Associations]
+application/x-compressed-tar=pcmanfm.desktop;
+text/plain=firefox.desktop;
+application/zip=cmake-gui.desktop;
+image/png=firefox.desktop;gimp.desktop;
+image/x-canon-cr2=firefox.desktop;
+image/jpeg=gimp.desktop;
+application/pdf=firefox.desktop;
+application/octet-stream=visual-studio-code.desktop;
+application/x-cd-image=unetbootin.desktop;
+application/x-raw-disk-image=unetbootin.desktop;
+image/tiff=vlc.desktop;firefox.desktop;
+
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+application/uproject=com.epicgames.UnrealEngineEditor.desktop
+image/jpeg=gimp.desktop
+application/pdf=firefox.desktop
+application/x-cd-image=unetbootin.desktop

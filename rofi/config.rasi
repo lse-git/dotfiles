@@ -1,0 +1,6 @@
+/** Basic config file **/
+
+configuration {
+  theme: "~/.config/rofi/launchers/gruvbox.rasi";
+  font: "fantasque sans mono 10";
+}
